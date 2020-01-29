@@ -1,6 +1,6 @@
 {
     "require": {
-        "monolog/monolog": "dev-master#2eb0c0978d290a1c45346a1955188929cb4e5db7",
+        "monolog/monolog": "dev-master#a0d982ddee47eb5407daf478db8741b5e989f361",
         "acme/foo": "1.0.x-dev#abc123"
     }
 }
